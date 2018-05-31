@@ -19,7 +19,7 @@
 ;; the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
 ;; Boston, MA 02110-1301, USA.
 
-;;; Input method for Church Slavic with prefix modifiers, based on Russian keyboard.
+;;; Input method for Church Slavic with prefix modifiers, based on Bulgarian phonetic keyboard.
 ;;; @image html cu-glag.png "Keyboard Layout"
 ;;; @image latex cu-glag.eps "Keyboard Layout" width=\narrowwidth
 
@@ -28,7 +28,7 @@
 (author "Slavonic Computing Initiative")
 
 (description
- "Church Slavic (Glagolitic) input method based on the Russian keyboard.
+ "Church Slavic (Glagolitic) input method based on the Bulgarian phonetic keyboard.
   This layout is experimental. Please address comments to developer.
 
  [DEAD]~ 1! 2\" 3№ 4; 5% 6: 7? 8* 9( 0) -_ =+ 
